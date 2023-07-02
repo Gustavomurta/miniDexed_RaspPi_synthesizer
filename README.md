@@ -9,3 +9,6 @@ Meu projeto foi baseado nesse projeto original:
 
 Estou editando um tutorial sobre a montagem desse projeto no Lab de Garagem:
 - https://labdegaragem.com/forum/topics/minidexed-incr-vel-sintetizador-com-rasperry-pi
+
+Sobre o famoso Sintetizador YAMAHA DX7, lançado em 1983:
+- https://en.wikipedia.org/wiki/Yamaha_DX7
