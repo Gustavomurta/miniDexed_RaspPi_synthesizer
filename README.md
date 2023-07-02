@@ -12,3 +12,7 @@ Estou editando um tutorial sobre a montagem desse projeto no Lab de Garagem:
 
 Sobre o famoso Sintetizador YAMAHA DX7, lançado em 1983:
 - https://en.wikipedia.org/wiki/Yamaha_DX7
+
+Alguns vídeos de demonstração da excelente qualidade do som do miniDexed:
+- https://youtu.be/S6fjJ5Is0pg
+- https://youtu.be/Z3t94ceMHJo
