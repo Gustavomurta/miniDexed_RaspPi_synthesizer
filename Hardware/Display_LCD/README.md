@@ -15,5 +15,7 @@ O chip PCF8574 possui alguns endereços I2C já definidos, dependendo do modelo 
 - PCF8574A = 0x38H
 
 O potenciômetro Azul nessa interface é usado para ajuste do contraste. 
+
 Após o Display energizado e programado, ajuste-o para tornar a imagem visível. 
+
 O jumper LED é usado para ativar o LED Backlight.
