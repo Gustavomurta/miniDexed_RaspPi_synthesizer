@@ -9,7 +9,7 @@ LCD 16×2 com Interface I2C:
 - SDA – serial Data – interface I2C => GPIO_02 (pino 3) do Raspberry Pi 
 - SCL – serial Clock – interface I2C => GPIO_03 (pino 5) do Raspberry Pi 
 
-O chip PCF8574 possui alguns endereços já definidos, dependendo do modelo (identifique o chip do seu módulo):
+O chip PCF8574 possui alguns endereços I2C já definidos, dependendo do modelo (identifique o chip do seu módulo):
 
 - PCF8574 = 0x20H
 - PCF8574A = 0x38H
