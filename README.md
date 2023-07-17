@@ -16,5 +16,5 @@ Sobre o famoso Sintetizador YAMAHA DX7, lançado em 1983:
 Alguns vídeos de demonstração da excelente qualidade do som do miniDexed:
 - https://youtu.be/S6fjJ5Is0pg
 - https://youtu.be/Z3t94ceMHJo
-- 
+  
 ![miniDexed RaspPi Zero](https://github.com/Gustavomurta/miniDexed_RaspPi_synthesizer/assets/4587366/9105860b-c5b0-4e84-8f3b-695adf34bf26)
